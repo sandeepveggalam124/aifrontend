@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="row custom-div text-white"
+  >
+    <div
+      class="col col-lg-1 border-end d-flex flex-column align-items-center"
+    >
+      <div
+        class="row text-white"
+      >
+        <div
+          class="col col-lg-12 d-flex align-items-center flex-column "
+        >
+          <div
+            class="py-5"
+          >
+            <img
+              alt="Bootstrap"
+              src="/assests/images/profile.svg"
+            />
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text highlighted-link"
+              href="link_to_gostandout"
+            >
+              GoStandOut
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_golearn"
+            >
+              GoLearn
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_gototest"
+            >
+              GoToTest
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_gosolvecode"
+            >
+              GoSolveCode
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col col-lg-10 d-flex flex-column justify-content-around align-items-center"
+    >
+      <div
+        class="d-flex flex-column justify-content-center align-items-center mt-2"
+      >
+        <div
+          class="d-flex justify-content-center align-items-center"
+        >
+          <div
+            style="font-size: 100px;"
+          >
+            <span>
+              0
+            </span>
+            :
+            <span>
+              1
+            </span>
+            :
+            <span>
+              0
+            </span>
+          </div>
+        </div>
+        <div>
+          <p>
+            1 minutes left to start the interview
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+  </div>
+</div>
+`;

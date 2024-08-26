@@ -1,0 +1,20 @@
+.privacy-text {
+    font-size: 12px;
+}
+
+.role {
+    color: #0E0E10;
+}
+
+.details {
+    background-color: #C4C4C4;
+    font-size: 12px;
+}
+.placeholder-custom::placeholder {
+    color: #0E0E10;
+    /* Desired color for the placeholder text */
+}
+.register-btn {
+    background-color: #0E0E10;
+    color: #C4C4C4;
+}

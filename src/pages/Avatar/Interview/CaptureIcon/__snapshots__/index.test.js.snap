@@ -1,0 +1,231 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`capture component renders correctly 1`] = `
+<div>
+  <div
+    class="icon-grid bg-black d-flex flex-column justify-content-center align-items-center"
+  >
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Above
+        </label>
+        <img
+          alt="lookAboveIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookAbove.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex justify-content-center align=items-center m-1 w-100"
+    >
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Left
+        </label>
+        <div
+          class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+        >
+          <img
+            alt="lookLeftIcon"
+            class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+            src="/assests/images/lookLeft.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Front
+        </label>
+        <img
+          alt="lookFrontIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 white-icon"
+          src="/assests/images/lookFront.svg"
+        />
+      </div>
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label
+          class="py-1"
+        >
+          Look Right
+        </label>
+        <img
+          alt="lookRightIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookRight.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col col-lg d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Down
+        </label>
+        <img
+          alt="lookDownIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookDown.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col"
+      >
+        <button
+          class="btn btn-light rounded-4 fs-6 fw-bold"
+        >
+          Reset
+        </button>
+      </div>
+      <div
+        class="col"
+      >
+        <button
+          class="btn btn-light rounded-4 fs-6 fw-bold disabled"
+          disabled=""
+        >
+          <a
+            class="text-decoration-none text-dark"
+            href="/interview/startInterview"
+          >
+            Confirm
+          </a>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="icon-grid bg-black d-flex flex-column justify-content-center align-items-center"
+  >
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Above
+        </label>
+        <img
+          alt="lookAboveIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookAbove.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex justify-content-center align=items-center m-1 w-100"
+    >
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Left
+        </label>
+        <div
+          class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+        >
+          <img
+            alt="lookLeftIcon"
+            class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+            src="/assests/images/lookLeft.svg"
+          />
+        </div>
+      </div>
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Front
+        </label>
+        <img
+          alt="lookFrontIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 white-icon"
+          src="/assests/images/lookFront.svg"
+        />
+      </div>
+      <div
+        class="col col-lg-4 d-flex flex-column justify-content-center align-items-center"
+      >
+        <label
+          class="py-1"
+        >
+          Look Right
+        </label>
+        <img
+          alt="lookRightIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookRight.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col col-lg d-flex flex-column justify-content-center align-items-center"
+      >
+        <label>
+          Look Down
+        </label>
+        <img
+          alt="lookDownIcon"
+          class="icon d-flex flex-column justify-content-center align-items-center mb-5 "
+          src="/assests/images/lookDown.svg"
+        />
+      </div>
+    </div>
+    <div
+      class="row d-flex"
+    >
+      <div
+        class="col"
+      >
+        <button
+          class="btn btn-light rounded-4 fs-6 fw-bold"
+        >
+          Reset
+        </button>
+      </div>
+      <div
+        class="col"
+      >
+        <button
+          class="btn btn-light rounded-4 fs-6 fw-bold disabled"
+          disabled=""
+        >
+          <a
+            class="text-decoration-none text-dark"
+            href="/interview/startInterview"
+          >
+            Confirm
+          </a>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

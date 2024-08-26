@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="row custom-div text-white"
+  >
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+    <div
+      class="col col-lg-10 bg-black d-flex flex-column align-item-stretch p-0 position-relative"
+    >
+      <button
+        class="login py-1 justify-content-center align-items-center position-absolute bottom-0 end-0 m-2"
+      >
+        <a
+          class="text-decoration-none finsih-link fs-6 fw-medium"
+          href="/interview/end"
+        >
+          Finish
+        </a>
+      </button>
+    </div>
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+  </div>
+</div>
+`;

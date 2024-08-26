@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="card bg-black"
+    style="width: 25rem;"
+  >
+    <div
+      class="card-body d-flex flex-column justify-content-center align-items-center text-center"
+    >
+      <p
+        class="card-text"
+      >
+        Thank you for completing your interview with us. We appreciate your time and interest in our company. We will be in touch with you regarding the next steps in our hiring process. Have a great day!
+      </p>
+      <button
+        class="btn btn-light fs-6 fw-medium"
+      >
+        <a
+          class="text-decoration-none text-dark"
+          href="/"
+        >
+          Ok
+        </a>
+      </button>
+    </div>
+  </div>
+</div>
+`;

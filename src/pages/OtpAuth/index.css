@@ -1,0 +1,13 @@
+.otp {
+    border: 1px solid #C4C4C4;
+    background-color: transparent;
+    color: white;
+}
+
+.resend-text {
+    color: #B176FF;
+}
+
+.otp-verification {
+    font-family: "Inter", sans-serif;
+}

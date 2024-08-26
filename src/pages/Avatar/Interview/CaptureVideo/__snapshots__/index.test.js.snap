@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="d-flex flex-column align-items-center justify-content-around"
+  >
+    <div
+      class="object-fit-lg-cover border rounded"
+    >
+      <video
+        autoplay=""
+        playsinline=""
+      />
+    </div>
+    <div
+      class="p-2"
+    />
+  </div>
+</div>
+`;

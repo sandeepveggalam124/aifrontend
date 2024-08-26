@@ -1,0 +1,10 @@
+.timer-container{
+    text-align: center;
+    display:flex
+}
+
+.clock-vector-class{
+    width: 30%;
+    height: 30%;
+  
+  }   

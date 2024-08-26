@@ -1,0 +1,15 @@
+body{
+  font-family: 'Poppins', sans-serif;   
+  color: #C4C4C4;
+  overflow: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+  color:#C4C4C4
+  /* overflow:hidden; */
+}
+/* .content {
+  flex: 1; Fill remaining vertical space
+width:100%;
+} */

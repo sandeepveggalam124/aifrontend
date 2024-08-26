@@ -1,0 +1,25 @@
+.highlighted-link {
+    position: relative;
+  }
+  
+  .highlighted-link::before,
+  .highlighted-link::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 2px; /* Adjust the line thickness as needed */
+    /* background-color: #fff; Adjust the line color as needed */
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, white 48%, rgba(255, 255, 255, 0) 100%)
+  }
+  
+  .highlighted-link::before {
+    top: -10px;
+    box-shadow: 0 0 5px rgba(223, 70, 187, 0.7); /* Adjust the spread and color as needed */
+  }
+  
+  .highlighted-link::after {
+    bottom: -10px;
+    box-shadow: 0 0 5px rgba(223, 70, 187, 0.7); /* Adjust the spread and color as needed */
+  }
+  

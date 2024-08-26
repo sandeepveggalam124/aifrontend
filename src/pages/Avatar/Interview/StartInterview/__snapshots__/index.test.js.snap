@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="card bg-black"
+  >
+    <div
+      class="card-body"
+    >
+      <p
+        class="card-text text-center"
+      >
+        Manjula, Now please prepare to be in front of your computer's camera for video capture, showcasing your face from different angles: left, right, straight on, top corner, and bottom corner.
+      </p>
+    </div>
+  </div>
+  <div>
+    <button
+      class="btn btn-light fs-6 fw-medium"
+    >
+      <a
+        class="text-decoration-none text-dark"
+        href="/interview/captureVideo"
+      >
+        Start
+      </a>
+    </button>
+  </div>
+</div>
+`;

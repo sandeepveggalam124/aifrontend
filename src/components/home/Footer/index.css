@@ -1,0 +1,14 @@
+.footer {
+  /* left: 0; */
+  /* position: fixed; */
+  min-height: 100px;
+  
+  /* z-index: 1000; */
+  background-color: #0E0E10;
+}
+
+.custom-border-end {
+  border-right: 1px solid #C4C4C4;
+  /* Assuming you want a border */
+  height: 100px;
+}

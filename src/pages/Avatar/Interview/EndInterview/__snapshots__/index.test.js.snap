@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="row custom-div text-white"
+  >
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+    <div
+      class="col col-lg-10 bg-black d-flex flex-column align-item-stretch position-relative p-0"
+    >
+      <div
+        class="embed-container p-0"
+      >
+        <img
+          alt="Avatar Image"
+          loading="lazy"
+          src="/assests/images/avatar.svg"
+        />
+      </div>
+      <div
+        class="position-absolute m-4"
+        style="right: 10%; bottom: 40%;"
+      >
+        <div
+          class="card bg-black"
+          style="width: 25rem;"
+        >
+          <div
+            class="card-body d-flex flex-column justify-content-center align-items-center text-center"
+          >
+            <p
+              class="card-text"
+            >
+              Thank you for completing your interview with us. We appreciate your time and interest in our company. We will be in touch with you regarding the next steps in our hiring process. Have a great day!
+            </p>
+            <button
+              class="btn btn-light fs-6 fw-medium"
+            >
+              <a
+                class="text-decoration-none text-dark"
+                href="/"
+              >
+                Ok
+              </a>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+  </div>
+</div>
+`;

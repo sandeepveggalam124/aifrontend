@@ -1,0 +1,20 @@
+.icon-class {
+    width: 20px; /* Adjust the width as needed */
+    height: 20px; /* Adjust the height as needed */
+    fill: white; /* Adjust the color as needed */
+  }
+  .finsih-link {
+    color: #0E0E10;
+}
+
+.icon-class-timer {
+  width: 20%; /* Adjust the width as needed */
+  height: 20%; /* Adjust the height as needed */
+  fill: white; /* Adjust the color as needed */
+}
+
+.clock-vector-class{
+  width: 30%;
+  height: 30%;
+
+}      

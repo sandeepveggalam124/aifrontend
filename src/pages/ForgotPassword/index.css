@@ -1,0 +1,42 @@
+.heading {
+    font-size: 20px;
+}
+
+.login-form-text {
+    color: #B176FF;
+    font-size: 14px;
+}
+
+.details {
+    background-color: #C4C4C4 !important;
+    font-size: 14px;
+}
+
+.forget-pw {
+    color: #C4C4C4;
+}
+
+.placeholder-custom::placeholder {
+    color: #0E0E10;
+    /* Desired color for the placeholder text */
+}
+
+.login-text {
+    color: #C4C4C4;
+    background-color: #0E0E10;
+    /* width: 100%; */
+}
+
+.register-text {
+    color: #0E0E10;
+    background-color: #C4C4C4;
+    /* width: 100%; */
+}
+
+.eye {
+    color: #0E0E10;
+}
+
+.password-div {
+    background-color: #C4C4C4;
+}

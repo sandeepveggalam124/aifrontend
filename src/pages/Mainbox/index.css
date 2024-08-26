@@ -1,0 +1,64 @@
+.custom-div {
+  background-color: #0E0E10;
+  min-height: calc(100vh - 200px);
+}
+
+.welcome-text {
+  color: #C4C4C4;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.rotate-text {
+  transform: rotate(-90deg);
+}
+
+.bg-image {
+  background-size: cover;
+  background-image: url('../../../public/assests/images/frame4.svg');
+}
+
+.bg-first-image {
+  background-size: cover;
+  background-image: url('../../../public/assests/images/first.svg');
+}
+
+.bg-last-image {
+  background-size: cover;
+  background-image: url('../../../public/assests/images/last.svg');
+
+}
+
+.highlighted-link {
+  position: relative;
+}
+
+.highlighted-link::before,
+.highlighted-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, white 48%, rgba(255, 255, 255, 0) 100%)
+}
+
+.highlighted-link::before {
+  top: -10px;
+  box-shadow: 0 0 5px rgba(223, 70, 187, 0.7);
+}
+
+.highlighted-link::after {
+  bottom: -10px;
+  box-shadow: 0 0 5px rgba(223, 70, 187, 0.7);
+  /* Adjust the spread and color as needed */
+}
+
+.content-div {
+  background: rgba(196, 196, 196, 0.40);
+  box-shadow: 0px 4px 70px 0px rgba(0, 0, 0, 0.10);
+  width: calc(100% - 80px);
+  /* Subtracting padding to keep the child div within parent */
+  height: calc(100% - 60px);
+  /* Subtracting padding to keep the child div within parent */
+}

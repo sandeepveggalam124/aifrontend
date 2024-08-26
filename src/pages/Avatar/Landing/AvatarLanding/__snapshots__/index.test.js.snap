@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="row custom-div text-white"
+  >
+    <div
+      class="col col-lg-1 border-end d-flex flex-column align-items-center"
+    >
+      <div
+        class="row text-white"
+      >
+        <div
+          class="col col-lg-12 d-flex align-items-center flex-column "
+        >
+          <div
+            class="py-5"
+          >
+            <img
+              alt="Bootstrap"
+              src="/assests/images/profile.svg"
+            />
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text highlighted-link"
+              href="link_to_gostandout"
+            >
+              GoStandOut
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_golearn"
+            >
+              GoLearn
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_gototest"
+            >
+              GoToTest
+            </a>
+          </div>
+          <div
+            class="rotate-text p-5"
+          >
+            <a
+              class="welcome-text "
+              href="link_to_gosolvecode"
+            >
+              GoSolveCode
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="col col-lg-5 border-end d-flex flex-column align-item-stretch p-0"
+    />
+    <div
+      class="col col-lg-5 bg-black d-flex flex-column justify-content-center align-items-center img-fluid"
+    />
+    <div
+      class="col col-lg-1 bg-last-image"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image Component renders correctly 1`] = `
+<div>
+  <div
+    class="embed-container p-0"
+  >
+    <img
+      loading="lazy"
+    />
+  </div>
+</div>
+`;

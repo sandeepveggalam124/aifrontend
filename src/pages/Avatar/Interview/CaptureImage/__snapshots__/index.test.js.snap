@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="embed-container d-flex flex-column align-items-center justify-content-center img-fluid"
+  >
+    <video
+      autoplay=""
+      class="responsive-webcam"
+      playsinline=""
+    />
+  </div>
+</div>
+`;
